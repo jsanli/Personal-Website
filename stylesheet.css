@@ -24,6 +24,12 @@ a{
     justify-content: center;
 }
 
+/*.headers{
+    display: inline-block;
+    width:300px;
+    height:225px;
+}*/
+
 img[src="img/headshot.jpg"]{
     display: inline-block;
     width:800px;
