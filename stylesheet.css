@@ -62,8 +62,10 @@ a{
 
 img[src="img/headshot.jpg"]{
     display: inline-block;
-    width:800px;
-    height:869px;
+    width: 480px;
+    height: 521.4px;
+    /*width:800px;
+    height:869px;*/
 }
 
 img[src="img/resume.jpg"]{
@@ -71,6 +73,22 @@ img[src="img/resume.jpg"]{
     width:800px;
     height:1034px;
 }
+
+/*img[src="img/linkedin.png"]{
+    position: absolute;
+    bottom: 30px;
+    display: inline-block;
+    width:30px;
+    height:30px;
+}
+
+img[src="img/githublogo.png"]{
+    position: absolute;
+    bottom: 30px;
+    display: inline-block;
+    width:30px;
+    height:30px;
+}*/
 
 
 img [src = "img/sourcecode.gif"]{
